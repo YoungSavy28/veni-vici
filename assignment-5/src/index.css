@@ -1,0 +1,61 @@
+/* src/index.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+  margin: 0;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin-top: 1rem;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+.attributes button {
+  margin: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  border: none;
+  background: #ffcc00;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.discover-btn {
+  margin-top: 1.5rem;
+  padding: 0.6rem 1.2rem;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.ban-list {
+  margin-top: 2rem;
+}
+
+.ban-item {
+  display: inline-block;
+  background: #ff4d4d;
+  color: white;
+  margin: 0.3rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+}
