@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/JP7hhGf.gif' title='Video Walkthrough' width='700' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/JP7hhGf.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
